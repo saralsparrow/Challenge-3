@@ -33,6 +33,8 @@ function passwordPrompts() {
   return lengthChar;
 }
 
+//Will generate random password//
+
 function generatePassword() {
   var newPassword = "";
 
