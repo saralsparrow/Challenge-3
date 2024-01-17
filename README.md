@@ -27,8 +27,8 @@ In case of any issues, start the password generation process from the beginning.
 
 ## Authors
 
-Sara Sparrow
-s.l.hubbard19@gmail.com
+* Sara Sparrow
+* s.l.hubbard19@gmail.com
 
 ## Acknowledgments
 
